@@ -1,0 +1,10 @@
+{
+        "port": 8001,
+        "repositories":
+        [{
+                "url": "https://github.com/LouisNmd/BotDiscord",
+                "branch": "refs/heads/master",
+                "path": "/home/gabgab/dev/BotDiscord",
+                "deploy": "sh /home/gabgab/dev/Github-Auto-Deploy/deploy.sh"
+        }]
+}
